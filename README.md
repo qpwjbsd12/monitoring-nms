@@ -82,7 +82,7 @@
 ---
 
 ## 6. 운영 자동화
-- **Ansible**로 장비·서버 설정 및 수집 에이전트 배포 자동화
+- Zabbix·Grafana 설치 자동화 코드를 AI를 활용해 작성 (이를 **Ansible**로 통합해 장비·서버 설정과 수집 에이전트 배포를 자동화한 작업은 다른 팀원 담당)
 - NTP(chrony)로 전 서버 시각 동기화 → 로그·증적 시각 정렬
 
 ---
@@ -103,4 +103,4 @@
 ---
 
 ## 8. 사용 기술
-`Prometheus` `Zabbix` `Grafana` `Alertmanager` `node_exporter` `SNMP` `Ansible` `Linux(Rocky/Ubuntu)` `OSPF` `VLAN` `NAT`
+`Prometheus` `Zabbix` `Grafana` `Alertmanager` `node_exporter` `SNMP` `Linux(Rocky/Ubuntu)` `OSPF` `VLAN` `NAT`
